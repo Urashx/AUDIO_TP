@@ -1,0 +1,3 @@
+ui.c:19:6:uiDisplayBasic	16	static
+ui.c:47:6:uiDisplayFFT	48	static
+ui.c:73:6:uiDisplayInputLevel	96	static

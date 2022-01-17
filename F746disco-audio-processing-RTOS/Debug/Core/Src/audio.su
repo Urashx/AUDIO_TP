@@ -1,0 +1,9 @@
+audio.c:118:6:uiLoop	24	static
+audio.c:141:6:audioLoop	40	static
+audio.c:198:13:accumulateInputLevels	24	static
+audio.c:229:6:HAL_SAI_RxCpltCallback	16	static
+audio.c:238:6:HAL_SAI_RxHalfCpltCallback	16	static
+audio.c:249:14:readFromAudioScratch	24	static
+audio.c:260:13:writeToAudioScratch	24	static
+audio.c:268:12:circlePos	16	static
+audio.c:293:13:processAudio	40	static
